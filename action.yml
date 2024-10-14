@@ -1,0 +1,11 @@
+# action.yml
+name: 'Associative Property'
+description: 'Test of the associative property'
+
+outputs:
+  myOutput:
+    description: 'Results of the test'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
