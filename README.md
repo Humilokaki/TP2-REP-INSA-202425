@@ -15,3 +15,14 @@ Pour exécuter ce programme vous aurez besoin de :
 Percentage of associativity error: 8,203125%
 Total tests: 512, Tests where associativity failed: 42
 ```
+
+## Etapes pour build et run l'image docker
+
+- Build the Docker Image :
+```bash
+docker build -t associative-property .
+```
+- Run the Docker Container :
+```bash
+docker run associative-property
+``` 
