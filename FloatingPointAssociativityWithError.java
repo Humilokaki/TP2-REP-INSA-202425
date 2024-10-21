@@ -25,22 +25,17 @@ public class FloatingPointAssociativityWithError {
                         errorCount++;
                     }
 
-                    // Print the result for each combination of x, y, z
-                    System.out.printf("x = %d, y = %d, z = %d | (x + y) + z = %d, x + (y + z) = %d | Associative: %b%n", 
-                                      x, y, z, leftSide, rightSide, isEqual);
                 }
             }
         }
 
         // Calculate average percentage error if there were any errors
         if (errorCount > 0) {
-            percentageError = (double) errorCount/totalTests*100; 
-            System.out.printf("Percentage of associativity error: %.6f%%%n", percentageError);
-        } else {
-            System.out.println("No errors in associativity for the given values.");
+            percentageSuccess = (double) (1 - errorCount/totalTests)*100;
+	    
+            System.out.printf("%.2f%%%n", percentageSuccess);
+	} else {
+            System.out.println("100.00");
         }
-
-        // Print the total number of tests and failures
-        System.out.printf("Total tests: %d, Tests where associativity failed: %d%n", totalTests, errorCount);
     }
 }
