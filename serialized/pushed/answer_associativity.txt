@@ -512,3 +512,5 @@ x = -9.876543e+03, y = -9.876543e+03, z = 1.234568e+04 | (x + y) + z = -7.407408
 x = -9.876543e+03, y = -9.876543e+03, z = -9.876543e+03 | (x + y) + z = -2.962963e+04, x + (y + z) = -2.962963e+04 | Associative: true
 Percentage of associativity error: 8.203125%
 Total tests: 512, Tests where associativity failed: 42
+91.80%
+Total tests: 512, Tests where associativity failed: 42
