@@ -1,7 +1,7 @@
 public class FloatingPointAssociativityWithError {
     public static void main(String[] args) {
         // Array of test values for x, y, and z
-        double[] testValues = {1e16, 1e-16, 1.0, -1e16, -1e-16, 0.0, 12345.6789, -9876.54321};
+        double[] testValues = {1e16, 1e-16, 1.0, -1e16, -1e-16, 0.0, 12345.6789};
         // Variables to accumulate count errors
         int errorCount = 0;
         int totalTests = 0;

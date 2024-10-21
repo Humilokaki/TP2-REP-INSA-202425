@@ -3,10 +3,10 @@ name: Java Floating Point Test
 on:
   push:
     branches:
-      - main  # Change this if you want it to run on a different branch
+      - variation-iteration  # Change this if you want it to run on a different branch
   pull_request:
     branches:
-      - main  # Run on PRs targeting the main branch
+      - variation-iteration # Run on PRs targeting the main branch
 
 jobs:
   build:
