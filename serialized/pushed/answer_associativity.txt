@@ -514,3 +514,4 @@ Percentage of associativity error: 8.203125%
 Total tests: 512, Tests where associativity failed: 42
 91.80%
 Total tests: 512, Tests where associativity failed: 42
+91.80
