@@ -17,16 +17,25 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      # Build and run the Docker container
-      - name: Build and run Java action
-        uses: docker://Humilokaki/associative-property:latest
-        id: run_java
-        
-      # Write results to answer_associativity.txt
+      # Set up Docker Buildx (optional but recommended for multi-platform builds)
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+
+      # Build the Docker image
+      - name: Build Docker image
+        run: |
+          docker build -t associative-property .
+
+      # Run the Docker container
+      - name: Run Docker container
+        run: |
+          docker run associative-property > output.txt
+          
+      # Save results to answer_associativity.txt
       - name: Save results to file
         run: |
           echo "Results from the Java program" > answer_associativity.txt
-          echo "${{ steps.run_java.outputs.result }}" >> answer_associativity.txt
+          cat output.txt >> answer_associativity.txt
 
       # Commit the results to the repository
       - name: Commit results
