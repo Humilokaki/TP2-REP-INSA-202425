@@ -31,6 +31,6 @@ public class FloatingPointAssociativityWithError {
         // Calculate average percentage error if there were any errors
        
         percentageSuccess = 100 - (double) errorCount/totalTests*100; 
-        System.out.printf("%.2f%%%n",percentageSuccess);
+        System.out.printf("%.2f",percentageSuccess);
     }
 }
