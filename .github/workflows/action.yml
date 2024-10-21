@@ -34,15 +34,15 @@ jobs:
       # Save results to answer_associativity.txt
       - name: Save results to file
         run: |
-          echo "Results from the Java program" > answer_associativity.txt
-          cat output.txt >> answer_associativity.txt
+          echo "Results from the Java program" > serialized/pushed/answer_associativity.txt
+          cat output.txt >> serialized/pushed/answer_associativity.txt
 
       # Commit the results to the repository
       - name: Commit results
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add answer_associativity.txt
+          git add serialized/pushed/answer_associativity.txt
           git commit -m "Update answer_associativity.txt with latest results"
           git push
         env:
