@@ -32,9 +32,5 @@ public class FloatingPointAssociativityWithError {
        
         percentageSuccess = 100 - (double) errorCount/totalTests*100; 
         System.out.printf("%.2f%%%n",percentageSuccess);
-      
-
-        // Print the total number of tests and failures
-        System.out.printf("Total tests: %d, Tests where associativity failed: %d%n", totalTests, errorCount);
     }
 }
