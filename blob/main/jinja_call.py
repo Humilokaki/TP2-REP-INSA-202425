@@ -9,6 +9,7 @@ factors = {
     "operation1": "(x + y) + z",
     "operation2": "x + (y + z)",
     "repetitions": 1000,  # Can be changed to any number of repetitions
+    "type": "float",
 }
 
 # Render the template with specific values
@@ -21,8 +22,10 @@ with open('generated_property_check.py', 'w') as f:
 print("Generated code has been written to 'generated_property_check.py'.")
 
 factor_combinations = [
-    {"operation1": "(x + y) + z", "operation2": "x + (y + z)", "repetitions": 1000},
-    {"operation1": "x + y", "operation2": "y + x", "repetitions": 500},
+        {"operation1": "(x + y) + z", "operation2": "x + (y + z)", "repetitions": 1000, "type": "float"},
+        {"operation1": "(x + y) + z", "operation2": "x + (y + z)", "repetitions": 1000, "type": "int"},
+        {"operation1": "x + y", "operation2": "y + x", "repetitions": 500, "type": "float"},
+        {"operation1": "x + y", "operation2": "y + x", "repetitions": 500, "type": "int"},
     # Add more combinations as needed
 ]
 
