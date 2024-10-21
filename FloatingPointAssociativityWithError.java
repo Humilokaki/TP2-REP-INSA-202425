@@ -33,7 +33,7 @@ public class FloatingPointAssociativityWithError {
         if (errorCount > 0) {
             percentageSuccess = (double) (1 - errorCount/totalTests)*100;
 	    
-            System.out.printf("%.2f%%%n", percentageSuccess);
+            System.out.printf("%.2f", percentageSuccess);
 	} else {
             System.out.println("100.00");
         }
