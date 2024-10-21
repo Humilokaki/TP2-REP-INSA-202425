@@ -17,16 +17,22 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      # Build and run the Docker container
-      - name: Build and run Java action
-        uses: docker://Humilokaki/associative-property:latest
-        id: run_java
-        
-      # Write results to answer_associativity.txt
+      # Login to Docker if the image is private (optional)
+      # Uncomment if the image is in a private registry
+      # - name: Log in to Docker Hub
+      #   run: echo "${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}" | docker login -u ${{ secrets.DOCKER_HUB_USERNAME }} --password-stdin
+
+      # Pull and run the Docker container
+      - name: Pull and run Docker image
+        run: |
+          docker pull Humilokaki/associative-property:latest
+          docker run Humilokaki/associative-property:latest > output.txt
+          
+      # Save results to answer_associativity.txt
       - name: Save results to file
         run: |
           echo "Results from the Java program" > answer_associativity.txt
-          echo "${{ steps.run_java.outputs.result }}" >> answer_associativity.txt
+          cat output.txt >> answer_associativity.txt
 
       # Commit the results to the repository
       - name: Commit results
@@ -38,3 +44,4 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
