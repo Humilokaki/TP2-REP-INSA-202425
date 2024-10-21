@@ -5,7 +5,7 @@ public class FloatingPointAssociativityWithError {
         // Variables to accumulate count errors
         int errorCount = 0;
         int totalTests = 0;
-        double percentageError = 0.0;
+        double percentageSuccess = 0.0;
         // Run the test for all combinations of x, y, and z from the testValues array
         for (int x : testValues) {
             for (int y : testValues) {
