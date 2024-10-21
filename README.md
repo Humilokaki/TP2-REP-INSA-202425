@@ -25,4 +25,7 @@ docker build -t associative-property .
 - Run the Docker Container :
 ```bash
 docker run associative-property
-``` 
+```
+ ## Liste des facteurs qui ont un effet sur le résultat du programme
+- Le **type** des variables utilisé
+- Le **nombre** d'itération, les différentes valeurs de variables utilisées
