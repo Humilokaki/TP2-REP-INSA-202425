@@ -1,3 +1,2 @@
-Results from the Java program
-100.00
+
 100.00
