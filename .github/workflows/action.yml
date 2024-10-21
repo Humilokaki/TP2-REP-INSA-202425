@@ -34,8 +34,8 @@ jobs:
       # Save results to answer_associativity.txt
       - name: Save results to file
         run: |
-          cat output.txt >> serialized/pushed/answer_associativity.txt
-
+          mv output.txt serialized/pushed/answer_associativity.txt
+          
       # Commit the results to the repository
       - name: Commit results
         run: |
