@@ -17,16 +17,19 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      # Login to Docker if the image is private (optional)
-      # Uncomment if the image is in a private registry
-      # - name: Log in to Docker Hub
-      #   run: echo "${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}" | docker login -u ${{ secrets.DOCKER_HUB_USERNAME }} --password-stdin
+      # Set up Docker Buildx (optional but recommended for multi-platform builds)
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
 
-      # Pull and run the Docker container
-      - name: Pull and run Docker image
+      # Build the Docker image
+      - name: Build Docker image
         run: |
-          docker pull Humilokaki/associative-property:latest
-          docker run Humilokaki/associative-property:latest > output.txt
+          docker build -t associative-property .
+
+      # Run the Docker container
+      - name: Run Docker container
+        run: |
+          docker run associative-property > output.txt
           
       # Save results to answer_associativity.txt
       - name: Save results to file
@@ -44,4 +47,3 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
