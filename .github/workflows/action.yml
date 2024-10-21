@@ -34,7 +34,6 @@ jobs:
       # Save results to answer_associativity.txt
       - name: Save results to file
         run: |
-          echo "Results from the Java program" > answer_associativity.txt
           cat output.txt >> serialized/pushed/answer_associativity.txt
 
       # Commit the results to the repository
