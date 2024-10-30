@@ -1,21 +1,23 @@
-FROM eclipse-temurin:21
+# Stage 1: Build and run the Java application
+FROM eclipse-temurin:21 AS java-stage
 
 WORKDIR /app
 
 COPY . /app
 
-# Install Python 3.10.12 and pip
-RUN apt-get update && \
-    apt-get install -y software-properties-common && \
-    add-apt-repository ppa:deadsnakes/ppa && \
-    apt-get update && \
-    apt-get install -y python3.10 python3.10-distutils && \
-    curl -sS https://bootstrap.pypa.io/get-pip.py | python3.10
-
-COPY requirements.txt .
-RUN if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
+# Compile the Java program
 RUN javac FloatingPointAssociativityWithError.java
 
-# Run both Java and Python programs sequentially
-CMD java FloatingPointAssociativityWithError && python3 your_script.py
+# Stage 2: Python environment for running Python script and dependencies
+FROM python:3.10-slim AS python-stage
+
+WORKDIR /app
+
+# Copy all files from the previous stage into this one
+COPY --from=java-stage /app /app
+
+COPY requirements.txt .  # Only if you have a requirements.txt
+RUN if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+# Default command to first run Java then Python
+CMD ["sh", "-c", "java FloatingPointAssociativityWithError && python3 your_script.py"]
