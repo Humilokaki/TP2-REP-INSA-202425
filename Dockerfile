@@ -20,4 +20,4 @@ COPY requirements.txt .  # Only if you have a requirements.txt
 RUN if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
 # Default command to first run Java then Python
-CMD ["sh", "-c", "java FloatingPointAssociativityWithError && python3 your_script.py"]
+CMD ["sh", "-c", "java FloatingPointAssociativityWithError && python3 main/explore_variability.py"]
