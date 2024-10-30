@@ -2,7 +2,6 @@
 FROM eclipse-temurin:21 AS java-stage
 
 WORKDIR /app
-
 COPY . /app
 
 # Compile the Java program
@@ -16,8 +15,9 @@ WORKDIR /app
 # Copy all files from the previous stage into this one
 COPY --from=java-stage /app /app
 
-COPY requirements.txt .  # Only if you have a requirements.txt
-RUN if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+# Ensure requirements.txt is copied correctly
+COPY requirements.txt /app/requirements.txt
+RUN if [ -f /app/requirements.txt ]; then pip install -r /app/requirements.txt; fi
 
 # Default command to first run Java then Python
 CMD ["sh", "-c", "java FloatingPointAssociativityWithError && python3 main/explore_variability.py"]
