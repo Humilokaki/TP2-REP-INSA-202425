@@ -1,23 +1,23 @@
-# Stage 1: Build and run the Java application
-FROM eclipse-temurin:21 AS java-stage
+# Start with the Python 3.10 image and install Java in the same stage
+FROM python:3.10-slim AS runtime
 
+# Install Java (OpenJDK)
+RUN apt-get update && apt-get install -y \
+    openjdk-17-jdk && \
+    rm -rf /var/lib/apt/lists/*
+
+# Set the working directory
 WORKDIR /app
+
+# Copy application files to the container
 COPY . /app
 
 # Compile the Java program
 RUN javac FloatingPointAssociativityWithError.java
 
-# Stage 2: Python environment for running Python script and dependencies
-FROM python:3.10-slim AS python-stage
+# Install Python dependencies if a requirements.txt is present
+COPY requirements.txt .  
+RUN if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-WORKDIR /app
-
-# Copy all files from the previous stage into this one
-COPY --from=java-stage /app /app
-
-# Ensure requirements.txt is copied correctly
-COPY requirements.txt /app/requirements.txt
-RUN if [ -f /app/requirements.txt ]; then pip install -r /app/requirements.txt; fi
-
-# Default command to first run Java then Python
-CMD ["sh", "-c", "java FloatingPointAssociativityWithError && python3 main/explore_variability.py"]
+# Run the Java program followed by the Python script (no output expected from Python)
+CMD java FloatingPointAssociativityWithError && python3 main/explore_variability.py
