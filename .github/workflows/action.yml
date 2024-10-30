@@ -3,10 +3,10 @@ name: Java Floating Point Test
 on:
   push:
     branches:
-      - main  # Change this if you want it to run on a different branch
+      - main
   pull_request:
     branches:
-      - main  # Run on PRs targeting the main branch
+      - main
 
 jobs:
   build:
@@ -34,15 +34,20 @@ jobs:
       # Save results to answer_associativity.txt
       - name: Save results to file
         run: |
+          mkdir -p serialized/pushed
           mv output.txt serialized/pushed/answer_associativity.txt
 
-      # Commit the results to the repository
+      # Check if there are changes and commit the results to the repository
       - name: Commit results
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add serialized/pushed/answer_associativity.txt
-          git commit -m "Update answer_associativity.txt with latest results"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git add serialized/pushed/answer_associativity.txt
+            git commit -m "Update answer_associativity.txt with latest results"
+            git push
+          else
+            echo "No changes to commit."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
