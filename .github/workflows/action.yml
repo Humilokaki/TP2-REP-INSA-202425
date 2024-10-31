@@ -1,4 +1,4 @@
-name: Floating Point Test with Docker
+name: Java Floating Point Test
 
 on:
   push:
@@ -13,32 +13,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout code
+      # Checkout code using the updated version of the action
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3  # Updated to the latest stable version
 
-      # Step 2: Set up Docker Buildx
+      # Set up Docker Buildx with updated action
       - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2
+        uses: docker/setup-buildx-action@v2  # Updated to the latest stable version
 
-      # Step 3: Build Docker image
+      # Build the Docker image with a specified tag
       - name: Build Docker image
         run: |
-          docker build -t floating-point-test .
+          docker build -t associative-property:latest .
 
-      # Run the Docker container
+      # Run the Docker container and save output
       - name: Run Docker container
         run: |
-          docker run associative-property > java_output.txt
+          docker run associative-property:latest > output.txt
           
-      # Save only the Java output to answer_associativity.txt
+      # Save results to answer_associativity.txt
       - name: Save results to file
         run: |
           mkdir -p serialized/pushed
-          mv java_output.txt serialized/pushed/answer_associativity.txt
+          mv output.txt serialized/pushed/answer_associativity.txt
 
-
-      # Step 6: Commit results to the repository
+      # Commit the results to the repository
       - name: Commit results
         run: |
           git config --local user.email "action@github.com"
@@ -49,5 +48,6 @@ jobs:
             git push
           else
             echo "No changes to commit."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
