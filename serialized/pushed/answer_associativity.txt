@@ -1,1 +1,2153 @@
 91.80
+Checking (x + y) + z vs x + (y + z) with 250 repetitions and precision 0:
+Out of 250 trials, 100.00% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 250 repetitions and precision 2:
+Out of 250 trials, 74.80% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 250 repetitions and precision 5:
+Out of 250 trials, 76.00% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 250 repetitions and precision 7:
+Out of 250 trials, 71.60% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 250 repetitions and precision 9:
+Out of 250 trials, 76.00% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 250 repetitions and precision 12:
+Out of 250 trials, 76.40% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 500 repetitions and precision 0:
+Out of 500 trials, 100.00% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 500 repetitions and precision 2:
+Out of 500 trials, 75.20% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 500 repetitions and precision 5:
+Out of 500 trials, 72.00% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 500 repetitions and precision 7:
+Out of 500 trials, 73.20% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 500 repetitions and precision 9:
+Out of 500 trials, 78.40% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 500 repetitions and precision 12:
+Out of 500 trials, 77.80% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 1000 repetitions and precision 0:
+Out of 1000 trials, 100.00% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 1000 repetitions and precision 2:
+Out of 1000 trials, 75.70% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 1000 repetitions and precision 5:
+Out of 1000 trials, 74.20% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 1000 repetitions and precision 7:
+Out of 1000 trials, 74.20% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 1000 repetitions and precision 9:
+Out of 1000 trials, 77.60% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 1000 repetitions and precision 12:
+Out of 1000 trials, 73.50% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 2000 repetitions and precision 0:
+Out of 2000 trials, 100.00% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 2000 repetitions and precision 2:
+Out of 2000 trials, 75.05% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 2000 repetitions and precision 5:
+Out of 2000 trials, 75.00% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 2000 repetitions and precision 7:
+Out of 2000 trials, 74.60% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 2000 repetitions and precision 9:
+Out of 2000 trials, 74.55% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking (x + y) + z vs x + (y + z) with 2000 repetitions and precision 12:
+Out of 2000 trials, 73.40% of the time the property held for (x + y) + z and x + (y + z).
+
+Checking x + y vs y + x with 250 repetitions and precision 0:
+Out of 250 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 250 repetitions and precision 2:
+Out of 250 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 250 repetitions and precision 5:
+Out of 250 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 250 repetitions and precision 7:
+Out of 250 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 250 repetitions and precision 9:
+Out of 250 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 250 repetitions and precision 12:
+Out of 250 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 500 repetitions and precision 0:
+Out of 500 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 500 repetitions and precision 2:
+Out of 500 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 500 repetitions and precision 5:
+Out of 500 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 500 repetitions and precision 7:
+Out of 500 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 500 repetitions and precision 9:
+Out of 500 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 500 repetitions and precision 12:
+Out of 500 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 1000 repetitions and precision 0:
+Out of 1000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 1000 repetitions and precision 2:
+Out of 1000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 1000 repetitions and precision 5:
+Out of 1000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 1000 repetitions and precision 7:
+Out of 1000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 1000 repetitions and precision 9:
+Out of 1000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 1000 repetitions and precision 12:
+Out of 1000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 2000 repetitions and precision 0:
+Out of 2000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 2000 repetitions and precision 2:
+Out of 2000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 2000 repetitions and precision 5:
+Out of 2000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 2000 repetitions and precision 7:
+Out of 2000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 2000 repetitions and precision 9:
+Out of 2000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking x + y vs y + x with 2000 repetitions and precision 12:
+Out of 2000 trials, 100.00% of the time the property held for x + y and y + x.
+
+Checking (x * y) * z vs x * (y * z) with 250 repetitions and precision 0:
+Out of 250 trials, 100.00% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 250 repetitions and precision 2:
+Out of 250 trials, 64.40% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 250 repetitions and precision 5:
+Out of 250 trials, 61.20% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 250 repetitions and precision 7:
+Out of 250 trials, 67.60% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 250 repetitions and precision 9:
+Out of 250 trials, 62.80% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 250 repetitions and precision 12:
+Out of 250 trials, 68.00% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 500 repetitions and precision 0:
+Out of 500 trials, 100.00% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 500 repetitions and precision 2:
+Out of 500 trials, 70.40% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 500 repetitions and precision 5:
+Out of 500 trials, 64.80% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 500 repetitions and precision 7:
+Out of 500 trials, 61.00% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 500 repetitions and precision 9:
+Out of 500 trials, 62.60% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 500 repetitions and precision 12:
+Out of 500 trials, 65.60% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 1000 repetitions and precision 0:
+Out of 1000 trials, 100.00% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 1000 repetitions and precision 2:
+Out of 1000 trials, 67.00% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 1000 repetitions and precision 5:
+Out of 1000 trials, 65.50% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 1000 repetitions and precision 7:
+Out of 1000 trials, 65.50% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 1000 repetitions and precision 9:
+Out of 1000 trials, 63.60% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 1000 repetitions and precision 12:
+Out of 1000 trials, 64.90% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 2000 repetitions and precision 0:
+Out of 2000 trials, 100.00% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 2000 repetitions and precision 2:
+Out of 2000 trials, 66.70% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 2000 repetitions and precision 5:
+Out of 2000 trials, 64.05% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 2000 repetitions and precision 7:
+Out of 2000 trials, 63.65% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 2000 repetitions and precision 9:
+Out of 2000 trials, 65.65% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking (x * y) * z vs x * (y * z) with 2000 repetitions and precision 12:
+Out of 2000 trials, 64.25% of the time the property held for (x * y) * z and x * (y * z).
+
+Checking x * (y / z) vs (x * y) / z with 250 repetitions and precision 0:
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Out of 250 trials, 54.00% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 250 repetitions and precision 2:
+Out of 250 trials, 67.60% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 250 repetitions and precision 5:
+Out of 250 trials, 66.40% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 250 repetitions and precision 7:
+Out of 250 trials, 64.80% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 250 repetitions and precision 9:
+Out of 250 trials, 65.20% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 250 repetitions and precision 12:
+Out of 250 trials, 62.40% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 500 repetitions and precision 0:
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Out of 500 trials, 46.60% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 500 repetitions and precision 2:
+Division by zero encountered with x=0.76, y=0.21, z=0.0. Skipping this iteration.
+Out of 500 trials, 66.80% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 500 repetitions and precision 5:
+Out of 500 trials, 65.60% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 500 repetitions and precision 7:
+Out of 500 trials, 65.00% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 500 repetitions and precision 9:
+Out of 500 trials, 69.80% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 500 repetitions and precision 12:
+Out of 500 trials, 61.80% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 1000 repetitions and precision 0:
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Out of 1000 trials, 49.20% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 1000 repetitions and precision 2:
+Division by zero encountered with x=0.62, y=0.67, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.18, y=0.72, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.36, y=0.22, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.75, y=0.95, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.82, y=0.97, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.13, y=0.67, z=0.0. Skipping this iteration.
+Out of 1000 trials, 66.90% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 1000 repetitions and precision 5:
+Out of 1000 trials, 65.00% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 1000 repetitions and precision 7:
+Out of 1000 trials, 62.90% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 1000 repetitions and precision 9:
+Out of 1000 trials, 62.80% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 1000 repetitions and precision 12:
+Out of 1000 trials, 67.70% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 2000 repetitions and precision 0:
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=0.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Division by zero encountered with x=1.0, y=1.0, z=0.0. Skipping this iteration.
+Out of 2000 trials, 52.20% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 2000 repetitions and precision 2:
+Division by zero encountered with x=0.8, y=0.77, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.88, y=0.13, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.76, y=0.74, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.74, y=0.29, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.08, y=0.11, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.15, y=0.12, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.43, y=0.5, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.08, y=0.9, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.96, y=0.42, z=0.0. Skipping this iteration.
+Division by zero encountered with x=0.8, y=0.3, z=0.0. Skipping this iteration.
+Out of 2000 trials, 69.15% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 2000 repetitions and precision 5:
+Out of 2000 trials, 64.55% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 2000 repetitions and precision 7:
+Out of 2000 trials, 66.05% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 2000 repetitions and precision 9:
+Out of 2000 trials, 65.05% of the time the property held for x * (y / z) and (x * y) / z.
+
+Checking x * (y / z) vs (x * y) / z with 2000 repetitions and precision 12:
+Out of 2000 trials, 64.85% of the time the property held for x * (y / z) and (x * y) / z.
+
+Results have been saved to 'variability_results.csv'
