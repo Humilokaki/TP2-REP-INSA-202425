@@ -1,4 +1,4 @@
-name: Java Floating Point Test
+name: Java Variability Test
 
 on:
   push:
@@ -13,29 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout code using the updated version of the action
+      # Checkout code
       - name: Checkout code
-        uses: actions/checkout@v3  # Updated to the latest stable version
+        uses: actions/checkout@v3
 
-      # Set up Docker Buildx with updated action
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v2  # Updated to the latest stable version
-
-      # Build the Docker image with a specified tag
+      # Build the Docker image
       - name: Build Docker image
         run: |
-          docker build -t associative-property:latest .
+          docker build -t variability-test .
 
-      # Run the Docker container and save output
+      # Run the Docker container
       - name: Run Docker container
         run: |
-          docker run associative-property:latest > output.txt
+          docker run variability-test > output.txt
           
-      # Save results to answer_associativity.txt
+      # Move the CSV output to the desired location
       - name: Save results to file
         run: |
           mkdir -p serialized/pushed
-          mv output.txt serialized/pushed/answer_associativity.txt
+          mv variability_results.csv serialized/pushed/
+          mv output.txt serialized/pushed/  # Move output from the run
 
       # Commit the results to the repository
       - name: Commit results
@@ -43,8 +40,8 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           if [ -n "$(git status --porcelain)" ]; then
-            git add serialized/pushed/answer_associativity.txt
-            git commit -m "Update answer_associativity.txt with latest results"
+            git add serialized/pushed/*
+            git commit -m "Update results with latest outputs"
             git push
           else
             echo "No changes to commit."
