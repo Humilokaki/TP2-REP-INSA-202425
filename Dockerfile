@@ -4,6 +4,6 @@ WORKDIR /app
 
 COPY . .
 
-RUN javac FloatingPointAssociativityWithError.java PropertyChecker.java
+RUN javac FloatingPointAssociativityWithError.java main/PropertyChecker.java
 
-CMD ["sh", "-c", "java FloatingPointAssociativityWithError && java PropertyChecker"]
+CMD ["sh", "-c", "java FloatingPointAssociativityWithError && java main/PropertyChecker"]
