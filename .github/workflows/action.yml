@@ -31,7 +31,6 @@ jobs:
       - name: Save results to file
         run: |
           mkdir -p serialized/pushed
-          mv variability_results.csv serialized/pushed/
           mv output.txt serialized/pushed/  # Move output from the run
 
       # Commit the results to the repository
