@@ -1,7 +1,7 @@
 # Test d'Associativité des Flottants en Java
 
 Ce projet teste l'associativité des nombres flottants en Java, vérifiant si l'égalité suivante est respectée pour diverses valeurs flottantes :  
-$$ x + (y + z) == (x + y) + z $$
+$$x + (y + z) == (x + y) + z$$
 
 ## Structure du Projet
 
