@@ -38,14 +38,11 @@ public class PropertyChecker {
           correctCount++;
         }
       } catch (ArithmeticException e) {
-        System.out.println(
-            "Division by zero encountered with x=" + x + ", y=" + y + ", z=" + z + ". Skipping this iteration.");
+
       }
     }
 
     double successRate = (correctCount / (double) repetitions) * 100;
-    System.out.printf("Out of %d trials, %.2f%% of the time the property held for %s and %s.%n",
-        repetitions, successRate, operation1, operation2);
 
     Map<String, Object> result = new HashMap<>();
     result.put("operation1", operation1);
@@ -155,8 +152,6 @@ public class PropertyChecker {
     for (String[] op : operations) {
       for (int reps : repetitionsList) {
         for (int prec : precisionLevels) {
-          System.out.printf("%nChecking %s vs %s with %d repetitions and precision %d:%n",
-              op[0], op[1], reps, prec);
           Map<String, Object> result = checkProperty(op[0], op[1], reps, prec);
           results.add(result);
         }
@@ -173,9 +168,8 @@ public class PropertyChecker {
             .append(result.get("precision").toString()).append(",")
             .append(result.get("success_rate").toString()).append("\n");
       }
-      System.out.println("\nResults have been saved to 'variability_results.csv'");
     } catch (IOException e) {
-      System.out.println("Error writing to CSV file: " + e.getMessage());
+
     }
   }
 }
