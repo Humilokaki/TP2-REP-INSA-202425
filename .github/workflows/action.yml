@@ -25,13 +25,7 @@ jobs:
       # Run the Docker container
       - name: Run Docker container
         run: |
-          docker run variability-test > output.txt
-          
-      # Move the CSV output to the desired location
-      - name: Save results to file
-        run: |
-          mkdir -p serialized/pushed
-          mv output.txt serialized/pushed/  # Move output from the run
+          docker run variability-test > serialized/pushed/answer_associativity.txt
 
       # Commit the results to the repository
       - name: Commit results
